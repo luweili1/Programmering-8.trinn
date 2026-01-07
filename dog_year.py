@@ -10,4 +10,4 @@ else:
     hundeår = 24 + (menneskeår-2)*5
 
 
-print ("En hund som har", menneskeår, "er:", hundeår, "år gammel i hundeår")
+print ("En hund som er", menneskeår, "er:", hundeår, "år gammel i hundeår")
