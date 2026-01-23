@@ -1,6 +1,6 @@
 artist = []
 
-for i in range (3):
+for i in range (5):
     navn = input("Skriv inn navnet på en favorittartist: ")
     artist.append(navn)
 

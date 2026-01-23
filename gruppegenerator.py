@@ -5,7 +5,7 @@ elever = [
     "Stevan", "Aarash", "Victoria", "Magnus", "Kristi", 
     "Sharanya", "Vegar", "Manha", "Nora", "Katharina", 
     "Benjamin", "Nima", "Sebastian", "Sigrid", "Minh", 
-    "Fedor", "Theodor", "Zitong", "Erik", "Advika", "Marius", 
+    "Fedor", "Theodor", "Zitong", "Advika", "Marius", 
     "David", "Oscar"
 ]
 
